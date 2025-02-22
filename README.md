@@ -1,7 +1,5 @@
-# YOOOOOOOOooOO
+# **[arythmitical.github.io](https://arythmitical.github.io/)**
 
-this actually works!!!!! hello, world 🌐
+My experiment with using [GitHub Pages](https://github.io) as a hosting service.
 
-[my roblox profile omg](https://www.roblox.com/users/1957832490/profile)
-
-![alt text](SPOILER_20230227_072803.gif)
+Visit here: https://arythmitical.github.io/
